@@ -1,1 +1,89 @@
-# kmezzo310-bit
+<h1 align="center">Hi 👋, I'm Mostafa</h1>
+
+<h3 align="center">
+2nd-Year Computer Science Student | Junior Game Developer 🎮 | Mobile App Developer 📱 | Graphic Designer 🎨
+</h3>
+
+<p align="center">
+Problem Solver • Strategy Thinker • ERlL Team Member
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 2nd-Year **Computer Science** Student  
+- 🎮 **Junior Game Developer** (Unity • Godot • Unreal Engine)  
+- 📱 **Mobile App Developer**  
+- 🎨 **Graphic Designer**  
+- 🧠 Strong **Problem Solving & Strategic Thinking**  
+- 🤝 Active member of **ERlL Team Organizations**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css" />
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+</p>
+
+### 🎨 Design & 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
+
+---
+
+## 🧠 Other Skills
+- ✔️ Problem Solving  
+- ✔️ Strategic Thinking  
+- ✔️ Marketing  
+- ✔️ Microsoft Excel  
+- ✔️ Teamwork & Organization Experience  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-tohamy-2738173a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/@lord_of_code" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="https://www.facebook.com/mostafa.mahmoued.553657/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
+
+---
+
+## 📞 Contact
+📱 **Phone / WhatsApp:** +20 10 22304652
+
+---
+
+⭐ Always learning • Always building • Always leveling up
