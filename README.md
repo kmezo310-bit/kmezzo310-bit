@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
+<h1 align="center">
+  Hi 👋, I'm Mostafa
+</h1>
 
 <h3 align="center">
 2nd-Year Computer Science Student | Junior Game Developer 🎮 | Mobile App Developer 📱 | Graphic Designer 🎨
@@ -23,17 +25,17 @@ Problem Solver • Strategy Thinker • ERlL Team Member
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css" />
 </p>
 
 ### 🎮 Game Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
 </p>
 
 ### 🎨 Design & 3D
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
@@ -44,30 +46,30 @@ Problem Solver • Strategy Thinker • ERlL Team Member
 - ✔️ Strategic Thinking  
 - ✔️ Marketing  
 - ✔️ Microsoft Excel  
-- ✔️ Teamwork & Organization Experience  
+- ✔️ Teamwork & Organization  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmezzo310-bit&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmezzo310-bit&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/kmezzo310-bit/kmezzo310-bit/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud-tohamy-2738173a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
